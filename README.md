@@ -1,2 +1,1 @@
-# swagger
-this is json api content
+![image](架构图.bmp)
